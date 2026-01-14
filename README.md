@@ -56,6 +56,7 @@ phones_key_fields.csv
 
 The full project documentation is available in the `docs` folder:
 - `GSMArena_Web_Scraper_Documentation.docx`
+- `GSMArena_Web_Scraper_Documentation.pdf`
 
 ---
 
